@@ -17,27 +17,6 @@ void loop() {
   }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
   This will send your PC serial monitor Input to app and app input to PC
   The app will recognize the end of the message from '\r' character.
